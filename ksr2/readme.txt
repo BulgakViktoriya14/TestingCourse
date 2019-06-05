@@ -1,1 +1,1 @@
-Вариант 2 iOS
+Variant 2 iOS
